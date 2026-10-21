@@ -1,0 +1,6 @@
+Issue ID,Page,WCAG,Issue,Severity,Recommendation,Evidence
+WEB-001,Navigation,2.1.1,Focus outline missing,High,Add focus-visible outline,PageSpeed 94/100 Screenshot
+WEB-002,Search Form,3.3.2,Label missing,High,Add label tag,PageSpeed 94/100 Screenshot
+WEB-003,Footer,1.4.3,Contrast low 2.8,Medium,Use dark color for 4.5 ratio,PageSpeed 94/100 Screenshot
+WEB-004,Images,1.1.1,Alt text missing,Medium,Add meaningful alt text,PageSpeed 94/100 Screenshot
+WEB-005,Headings,2.4.6,H1 to H3 skipped,Low,Fix heading order,PageSpeed 94/100 Screenshot
